@@ -1,0 +1,14 @@
+layout_spectrum: 0.8492310305591673
+typography_spectrum: 0.8306599147617817
+color:
+  brandStrength: 0.9966365629807115
+  lightness: 0.42789566656574607
+  saturation: 0.07613511802628636
+  rhythmicContrast: 0.6712877156678587
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: inDspotlight
