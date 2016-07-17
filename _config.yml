@@ -1,4 +1,3 @@
-layout_spectrum: 0.8492310305591673
 typography_spectrum: 0.8306599147617817
 color:
   brandStrength: 0.9966365629807115
@@ -11,4 +10,14 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: inDspotlight
+layout_spectrum: 0.8492310305591673
+author:
+  url: www.indspotlight.com
+  name: Haroun-Raschid Cole
+  email: MrHRCole@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7de9c175-5da7-49e7-90da-f86f9301073b.png
+name: inDspotlight Productions
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab031846-480e-4a61-a27f-78f2698628dd.png
+title: Bringing you what's TRULY NEW in Indie Entertainment
